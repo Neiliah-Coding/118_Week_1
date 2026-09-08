@@ -4,5 +4,5 @@ My improvements between my first and second version was understanding how to set
 
 ## Instructor Comments:
 You have a few unpaired semantic tags in your home.html
-- An extra <header>
-- A missing close for the body </body>
+- An extra `<header>`
+- A missing close for the body `</body>`
